@@ -4,3 +4,4 @@
 * [Vision](vision.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
+* [Socials](socials.md)
