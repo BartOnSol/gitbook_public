@@ -1,3 +1,3 @@
 # Tokenomics
 
-<figure><img src=".gitbook/assets/Untitled design (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Untitled design (13).png" alt=""><figcaption></figcaption></figure>
